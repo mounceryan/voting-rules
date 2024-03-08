@@ -1,1 +1,1 @@
-# voting-rules
+# Voting Rules
