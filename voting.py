@@ -1,5 +1,3 @@
-# Name: Ryan Mounce; Student Number: 201741072
-
 def generate_preferences(values):
     """
     Gets the preferences from the worksheet, outputs a preference profile.
